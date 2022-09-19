@@ -1,5 +1,5 @@
 
-!<img  src="https://www.aaditritechnology.com/images/redesign.gif">
+
 
 <h1 align="center">Hi 👋, I'm Sameer Bhavar</h1>
 <h3 align="center">
@@ -39,7 +39,7 @@ Developing robust applications that interact with the backend part of Full Stack
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerbhavar&&theme=tokyonight" alt="sameerbhavar" /></p>
 
-![snake gif](https://github.com/mohshahrukhkhan/mohshahrukhkhan/blob/output/github-contribution-grid-snake.gif)
+
 
 <a href="https://github.com/mohshahrukhkhan/github-readme-activity-graph"><img alt="sameerbhavar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sameerbhavar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
