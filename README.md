@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sameer Bhavar</h1>
 <h3 align="center">
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+Developing robust applications that interact with the backend part of Full Stack applications is my passion as a Java Back-End Developer. I have extensive experience with website architecture, web design, and web API designs. Focusing on improving the stability and speed of my application through a problem-solving mindset. I enjoy working in a team and am a team player</h3>
 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
