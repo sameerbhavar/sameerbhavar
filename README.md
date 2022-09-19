@@ -1,5 +1,5 @@
 
-<img  src="https://www.aaditritechnology.com/images/redesign.gif">
+!<img  src="https://www.aaditritechnology.com/images/redesign.gif">
 
 <h1 align="center">Hi 👋, I'm Sameer Bhavar</h1>
 <h3 align="center">
