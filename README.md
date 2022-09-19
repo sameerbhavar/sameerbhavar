@@ -1,6 +1,6 @@
 
 
-
+<img  src="https://www.aaditritechnology.com/images/redesign.gif">
 <h1 align="center">Hi 👋, I'm Sameer Bhavar</h1>
 <h3 align="center">
 Developing robust applications that interact with the backend part of Full Stack applications is my passion as a Java Back-End Developer. I have extensive experience with website architecture, web design, and web API designs. Focusing on improving the stability and speed of my application through a problem-solving mindset. I enjoy working in a team and am a team player</h3>
