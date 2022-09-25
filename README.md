@@ -47,7 +47,7 @@ Developing robust applications that interact with the backend part of Full Stack
 
 
 
-<a href="https://github.com/mohshahrukhkhan/github-readme-activity-graph"><img alt="sameerbhavar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sameerbhavar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sameerbhavar/github-readme-activity-graph"><img alt="sameerbhavar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sameerbhavar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 
