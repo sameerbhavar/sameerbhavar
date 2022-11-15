@@ -11,9 +11,9 @@ Developing robust applications that interact with the backend part of Full Stack
 
 - 🔭 I’m currently pursuing **JAVA Back-End**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Spring Boot**
  
-- 💬 Ask me about **JAVA/JavaScript/PHP/HTML/CSS/BOOSTRAP**
+- 💬 Ask me about **JAVA/Spring Boot/Hibernet/MySql/JavaScript/PHP/HTML/CSS/BOOSTRAP**
 
 - 📫 How to reach me **sameerbhavar@gmail.com**
 <hr>
